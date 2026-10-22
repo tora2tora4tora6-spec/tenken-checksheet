@@ -1,0 +1,13 @@
+{
+  "name": "店舗設備 定期点検",
+  "short_name": "点検シート",
+  "description": "全30項目の店舗設備定期点検チェックシート",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ECF2ED",
+  "theme_color": "#22312B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
